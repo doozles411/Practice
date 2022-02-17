@@ -1,0 +1,3 @@
+Standard: $10
+Priority: $50
+Overnight: $1,000
